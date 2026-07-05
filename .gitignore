@@ -1,0 +1,18 @@
+.DS_Store
+.codex_outputs/
+
+# Generated outputs and downloads
+output/
+outputs/
+generated/
+edited/
+midapi_runs/
+ttapi_downloads/
+cold_shipping_report/
+
+# Large local backups (keep on disk, not in git)
+n8n_backups/
+
+# Local images / assets
+*.jpg
+*.png
